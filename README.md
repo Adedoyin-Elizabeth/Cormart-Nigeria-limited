@@ -1,13 +1,13 @@
 # Employee Attrition Analysis for Cormart Nigeria Limited
 ### 🗂️ Table of Contents
-### Project Overview
-### Objectives
-### Data Source
-### Key Insights
-### Dashboard 
-### Tools Used
-### Conclusion
-### Recommendations
+- [Project Overview](Project_Overview)
+- [Objectives](🎯_Objectives)
+- [Data Source](_📊_Data_Source)
+- [Key Insights](🔑_Key_Insights)
+- [Dashboard](📈_Dashboard)
+- [Tools Used](Tool_Used)
+- [Conclusion](Conclusion)
+- [Recommendations](Recommendations)
 
 
 ## Project Overview
@@ -54,7 +54,8 @@ Gender Distribution:
 
 Males account for a larger proportion of the current workforce (60%) but also exhibit higher attrition rates compared to their female counterparts.
 
-## 📈 Dashboard Analysis
+## 📈 Dashboard
+![CORMART](https://github.com/user-attachments/assets/0ad07364-7910-47b5-ae2a-43f1511f3ad0)
 
 The analysis was visualized using a Power BI Dashboard, providing an interactive and comprehensive view of the key metrics:
 
@@ -77,6 +78,39 @@ Gender and Marital Status Analysis:
 A detailed table showing attrition breakdown based on gender and marital status, providing insights into demographic factors affecting turnover.
 Age Distribution:
 Histogram charts present the distribution of current employees by age bands, emphasizing attrition trends within specific age groups.
+
+![Comart 2](https://github.com/user-attachments/assets/a87b4e2d-9232-412d-9bb0-5f5d11df701a)
+### Dashboard Analysis 
+1. Attrition Based on Age Groups and Gender
+The top section provides a segmented view of attrition rates across different age groups, further broken down by gender:
+Under 25:
+Attrition is fairly balanced between genders, with 20.62% female and 19.59% male attrition.
+Age 25 - 34:
+This group shows higher male attrition at 43.09% compared to 7.42% female attrition, suggesting that young male employees may be leaving at a higher rate.
+Age 35 - 44:
+Attrition here skews towards females (27.12%) compared to males (3.6%), which could indicate challenges specific to mid-career women.
+Age 45 - 54:
+This category shows a moderate level of attrition with 7.68% females and 1.65% males.
+Over 55:
+Attrition is low in this group, with 5.19% females and 1.79% males, which is typical as this age group may have fewer working years remaining.
+2. Sum of Job Level by Hourly Rate
+The line chart below the age-based attrition analysis represents job levels by hourly rate:
+The fluctuations in the chart indicate variance in job levels and corresponding hourly rates.
+Peaks and troughs suggest potential disparities in compensation that may influence employee satisfaction and attrition.
+3. Attrition Count by Education
+The bar chart illustrates attrition by educational qualification:
+Bachelor’s Degree holders have the highest attrition count, indicating a significant portion of the workforce leaving with this qualification.
+This is followed by Master’s Degree and Associate Degree holders.
+Employees with High School and Doctoral Degrees show lower attrition, suggesting higher job retention or satisfaction within these groups.
+4. Sum of Attrition Count by Attrition Label
+The final bar chart on the right visualizes the overall count of Current Employees vs. Ex-Employees:
+The number of current employees (approx. 3,000) significantly outweighs the count of ex-employees.
+This comparison helps HR gauge the turnover rate and retention strength within the organization.
+
+### 📊 Key Insights
+Younger employees (especially males aged 25-34) and Bachelor’s Degree holders are leaving at the highest rates, indicating potential dissatisfaction or better external opportunities for these demographics.
+There might be compensation-related issues impacting attrition, as evidenced by the variation in job levels tied to hourly rates.
+Mid-career women (ages 35-44) appear to have higher attrition, suggesting a need for policies that support work-life balance or career development for this group.
 
 ## 🛠️ Tools Used
 Power BI: Data visualization and dashboard creation
