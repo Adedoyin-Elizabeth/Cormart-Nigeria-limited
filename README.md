@@ -1,20 +1,20 @@
 # Employee Attrition Analysis for Cormart Nigeria Limited
 ### 🗂️ Table of Contents
-- [Project Overview](Project_Overview)
-- [Objectives](🎯_Objectives)
-- [Data Source](_📊_Data_Source)
-- [Key Insights](🔑_Key_Insights)
-- [Dashboard](📈_Dashboard)
-- [Tools Used](Tool_Used)
-- [Conclusion](Conclusion)
-- [Recommendations](Recommendations)
-
-
 ## Project Overview
+## Objectives
+## Data Source
+## Key Insights
+## Dashboard
+## Tools Used
+## Conclusion
+## Recommendations
+
+
+# Project Overview
 This project focuses on an in-depth analysis of employee attrition at Cormart Nigeria Limited, a leading player in the distribution of industrial raw materials and chemicals. The analysis was carried out using Power BI, leveraging data visualization techniques to uncover insights 
 related to attrition trends, patterns, and key factors influencing employee turnover. The goal is to support the HR department in making data-driven decisions to reduce attrition rates and improve employee retention.
 
-## 🎯 Objectives
+# 🎯 Objectives
 The primary objectives of this analysis include:
 
 Assessing the overall attrition rate to understand the magnitude of employee turnover.
@@ -23,7 +23,7 @@ Analyzing demographic factors (e.g., age, gender, marital status) contributing t
 Evaluating attrition by educational field to pinpoint areas with potential skills gaps.
 Providing actionable insights for HR strategies aimed at improving employee satisfaction and retention.
 
-## 📊 Data Source
+# 📊 Data Source
 The analysis was conducted using historical employee data provided by Cormart Nigeria Limited. The dataset includes information on:
 
 Employee demographics (age, gender, marital status)
@@ -32,7 +32,7 @@ Daily and monthly pay rates
 Attrition status and reasons for leaving
 Note: The data was anonymized to protect the privacy of individual employees.
 
-## 🔑 Key Insights
+# 🔑 Key Insights
 Here are some of the critical findings from the analysis:
 
 ### Overall Attrition Rate:
@@ -54,7 +54,7 @@ Gender Distribution:
 
 Males account for a larger proportion of the current workforce (60%) but also exhibit higher attrition rates compared to their female counterparts.
 
-## 📈 Dashboard
+# 📈 Dashboard
 ![CORMART](https://github.com/user-attachments/assets/0ad07364-7910-47b5-ae2a-43f1511f3ad0)
 
 The analysis was visualized using a Power BI Dashboard, providing an interactive and comprehensive view of the key metrics:
@@ -112,15 +112,15 @@ Younger employees (especially males aged 25-34) and Bachelor’s Degree holders 
 There might be compensation-related issues impacting attrition, as evidenced by the variation in job levels tied to hourly rates.
 Mid-career women (ages 35-44) appear to have higher attrition, suggesting a need for policies that support work-life balance or career development for this group.
 
-## 🛠️ Tools Used
+# 🛠️ Tools Used
 Power BI: Data visualization and dashboard creation
 Excel: Data cleaning and preparation
 SQL: Data querying and manipulation
 
-## 📌 Conclusion
+# 📌 Conclusion
 The analysis reveals that Cormart Nigeria Limited faces significant challenges with employee turnover, particularly in the Sales and R&D departments. Key demographic factors, such as age, marital status, and educational background, play a substantial role in attrition. Addressing the dissatisfaction in specific job roles could lead to improved employee retention.
 
-## 🚀 Recommendations
+# 🚀 Recommendations
 Based on the insights gathered, the following recommendations are suggested:
 
 Implement Targeted Retention Programs: Focus on high-risk departments like Sales and R&D by offering incentives, career development opportunities, and better work-life balance initiatives.
