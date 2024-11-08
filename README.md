@@ -17,11 +17,11 @@ related to attrition trends, patterns, and key factors influencing employee turn
 # 🎯 Objectives
 The primary objectives of this analysis include:
 
-Assessing the overall attrition rate to understand the magnitude of employee turnover.
-Identifying key departments and job roles with the highest attrition rates.
-Analyzing demographic factors (e.g., age, gender, marital status) contributing to employee attrition.
-Evaluating attrition by educational field to pinpoint areas with potential skills gaps.
-Providing actionable insights for HR strategies aimed at improving employee satisfaction and retention.
+- Assessing the overall attrition rate to understand the magnitude of employee turnover.
+- Identifying key departments and job roles with the highest attrition rates.
+- Analyzing demographic factors (e.g., age, gender, marital status) contributing to employee attrition.
+- Evaluating attrition by educational field to pinpoint areas with potential skills gaps.
+- Providing actionable insights for HR strategies aimed at improving employee satisfaction and retention.
 
 # 📊 Data Source
 The analysis was conducted using historical employee data provided by Cormart Nigeria Limited. The dataset includes information on:
